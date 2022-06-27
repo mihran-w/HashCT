@@ -17087,6 +17087,11 @@ iframe {
     position: relative;
 }
 
+.hero-image {
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 200px;
+}
+
 .hero-image .tsparticles-canvas-el {
     position: absolute !important;
     z-index: 2;
@@ -18700,5 +18705,17 @@ iframe {
     }
     .company-slider .company-logo {
         border-left: 0;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .hero-image .home-slider img {
+        border-radius: 1rem;
+    }
+    .hero-image .home-slider {
+        border-radius: 1rem;
+    }
+    .hero-image {
+        border-radius: 1rem;
     }
 }
