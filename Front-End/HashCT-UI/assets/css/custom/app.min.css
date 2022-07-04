@@ -1300,7 +1300,7 @@ pre[class*="language-"] {
 
 .preloader {
     background: url("../../images/gifs/preloader.gif") center no-repeat;
-    background-color: #fff;
+    background-color: #f1f2f3;
     height: 100vh;
     position: fixed;
     top: 0;
@@ -16931,7 +16931,7 @@ iframe {
     position: absolute;
     top: 75px;
     left: 50vmax;
-    background-image: url(../../../../assets/images/fe80d99a4ebb5e21651aad15c11db909c0a89c88/section-shape-2-dots.png);
+    /* background-image: url(../../../../assets/images/fe80d99a4ebb5e21651aad15c11db909c0a89c88/section-shape-2-dots.png); */
     background-repeat: no-repeat;
     background-size: contain;
     width: 101px;
@@ -17028,7 +17028,7 @@ iframe {
     position: absolute;
     top: 200px;
     left: 50vmax;
-    background-image: url(../../../../assets/images/bc37bbe45df5b6b0b0a7c4568e767fb57ff86a87/section-shape-1-dots.png);
+    /* background-image: url(../../../../assets/images/bc37bbe45df5b6b0b0a7c4568e767fb57ff86a87/section-shape-1-dots.png); */
     background-repeat: no-repeat;
     background-size: contain;
     width: 101px;
@@ -17336,7 +17336,7 @@ iframe {
     position: absolute;
     top: 75px;
     right: 50vmax;
-    background-image: url(../../../../assets/images/bc37bbe45df5b6b0b0a7c4568e767fb57ff86a87/section-shape-1-dots.png);
+    /* background-image: url(../../../../assets/images/bc37bbe45df5b6b0b0a7c4568e767fb57ff86a87/section-shape-1-dots.png); */
     background-repeat: no-repeat;
     background-size: contain;
     width: 101px;
@@ -17384,7 +17384,7 @@ iframe {
     position: absolute;
     top: 75px;
     left: 50vmax;
-    background-image: url(../../../../assets/images/bc37bbe45df5b6b0b0a7c4568e767fb57ff86a87/section-shape-1-dots.png);
+    /* background-image: url(../../../../assets/images/bc37bbe45df5b6b0b0a7c4568e767fb57ff86a87/section-shape-1-dots.png); */
     background-repeat: no-repeat;
     background-size: contain;
     width: 101px;
@@ -17432,7 +17432,7 @@ iframe {
     position: absolute;
     top: 75px;
     right: 50vmax;
-    background-image: url(../../../../assets/images/08de3051b84cd1f3aab60cf5ad69be94c7666c49/section-shape-3-dots.png);
+    /* background-image: url(../../../../assets/images/08de3051b84cd1f3aab60cf5ad69be94c7666c49/section-shape-3-dots.png); */
     background-repeat: no-repeat;
     background-size: contain;
     width: 101px;
@@ -17480,7 +17480,7 @@ iframe {
     position: absolute;
     top: 35px;
     left: 50vmax;
-    background-image: url(../../../../assets/images/fe80d99a4ebb5e21651aad15c11db909c0a89c88/section-shape-2-dots.png);
+    /* background-image: url(../../../../assets/images/fe80d99a4ebb5e21651aad15c11db909c0a89c88/section-shape-2-dots.png); */
     background-repeat: no-repeat;
     background-size: contain;
     width: 101px;

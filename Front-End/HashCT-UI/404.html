@@ -230,7 +230,20 @@
     <!-- gulp:js -->
     <script src="./assets/js/build.min.js"></script>
     <!-- endgulp -->
-    <script src="./assets/js/sample.js"></script>
+    <script>
+        // Error Page 404
+
+        const pageErrors = document.querySelector('#page-404');
+
+        window.onmousemove = function(e) {
+            let x = e.clientX / 5;
+            let y = e.clientY / 5;
+
+            pageErrors.style.backgroundPositionX = x + "px";
+            pageErrors.style.backgroundPositionY = y + "px";
+
+        }
+    </script>
 </body>
 
 </html>
